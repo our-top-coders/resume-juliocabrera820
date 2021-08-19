@@ -13,7 +13,7 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: juliocabrera820@gmail.com
-  phone:
+  phone: 9995916137
   website: # No agregar http://
   linkedin: julio-cabrera-820
   github: juliocabrera820
@@ -47,7 +47,14 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I'm currently a software engineering student
+    I'm currently a software engineering student who is waiting for a opportunity to gain 
+    experience as well as knowing work environment.
+
+    I like being a self-taught programmer because I can learn new topics and 
+    discuss about some good practices and after I'll be able to put in practice.
+
+    I also like contributing to the community sharing value information or with an interesting workshop.
+    One of my goals is keep learning and keep growing as profesional.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Engineering
@@ -56,8 +63,28 @@ educationcomplete:
     details: |
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: Brigthcoder
+    time: 2021 May - 2021 Sep
+    company: MagmaLabs
+    details: |
+      As brightcoder I've learned about some good practices as well as different tools.
+      I've resolved some challenges to learn deeply ruby and after creating projects with Ruby on Rails
+      Some tasks that I've carried out are the following.
+      Implementing authentication and authorization, creating reports in PDF as well as layouts, making unit tests 
+      and deploying web applications
+  - role: Full stack developer
+    time: 2020 Aug - 2020 Dec
+    company: Coatí labs
+    details: |
+      As full stack developer I had to maintain the project, I carried out the following tasks.
+      * Fixing bugs
+      * Implementing new features
+      * Generating CSV and PDF reports
+      * Automating mailing
+      * Implementing new layouts
+      The required technologies were Ruby on Rails as full stack and postgresql
   - role: Front end developer
-    time: 2020 Jun - 2020 Dec
+    time: 2020 Mar - 2020 Aug
     company: Sumerian (Freelance Company)
     details: |
       As front end developer team member I carried out important issues project such as defining services layer, design methodology and
@@ -83,7 +110,7 @@ skills:
       level: 60%
 
     - name: Capybara
-      level: 20%
+      level: 40%
 
     - name: JavaScript
       level: 60%
@@ -92,11 +119,10 @@ skills:
       level: 40%
 
     - name: HTML
-      level: 60%
+      level: 80%
 
     - name: CSS
       level: 60%
-
 
     - name: React
       level: 60%
